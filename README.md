@@ -1,6 +1,6 @@
 <h1 align="center">Starfiles Top 15K</h1>
 
-<p align="center"><strong>A collection of 15 thousand + ipas for sideloading!</strong></p>
+<p align="center"><strong>A collection of 15k+ ipas for sideloading!</strong></p>
 
 <p align="center">
     <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-15k/main/starfilesrepo.json">
