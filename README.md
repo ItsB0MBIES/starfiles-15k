@@ -2,22 +2,19 @@
 
 <p align="center"><strong>A collection of 15 thousand + ipas for sideloading!</strong></p>
 
-<p align="center">
-  <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json" style="width: 250px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=1e90ff" alt="Add repo to ESign">
+<div align="center">
+  <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json" style="text-decoration: none; display: inline-block; width: 200px; padding: 10px; margin: 10px; background-color: #1e90ff; color: white; text-align: center; border-radius: 5px;">
+    Add repo to ESign
   </a>
-</p>
-
-<p align="center">
-  <a href="https://appdb.to/repos/import?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json" style="width: 250px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20Appdb-%20blue?style=for-the-badge&color=0048ba" alt="Add repo to Appdb">
+  
+  <a href="https://appdb.to/repos/import?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json" style="text-decoration: none; display: inline-block; width: 200px; padding: 10px; margin: 10px; background-color: #0048ba; color: white; text-align: center; border-radius: 5px;">
+    Add repo to Appdb
   </a>
-</p>
-
-<p align="center">
-  <a href="https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json" style="width: 250px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20Scarlet-red?style=for-the-badge" alt="Add repo to Scarlet">
+  
+  <a href="https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json" style="text-decoration: none; display: inline-block; width: 200px; padding: 10px; margin: 10px; background-color: #ff0000; color: white; text-align: center; border-radius: 5px;">
+    Add repo to Scarlet
   </a>
-</p>
+</div>
 
 ---
+
