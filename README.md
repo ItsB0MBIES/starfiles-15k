@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" width="15px">
     <a href="https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
-    <img src="https://img.shields.io/badge/Add%20to%20Scarlet-red?style=for-the-badge" alt="Add repo to Scarlet">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20Scarlet-red?style=for-the-badge" alt="Add repo to Scarlet">
   </a>
 </p>
 
