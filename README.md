@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://appdb.to/repos/import?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20Appdb-%20blue?style=for-the-badge&color=0048ba" alt="Add repo to Appdb">
+    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Esign.png" width="160" alt="Add repo to Appdb">
   </a>
 </p>
 
