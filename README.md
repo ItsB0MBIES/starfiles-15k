@@ -16,9 +16,8 @@
 
 <p align="center">
     <a href="https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20Scarlet-red?style=for-the-badge" alt="Add repo to Scarlet">
+    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Scarlet.png" alt="Add repo to Scarlet">
   </a>
 </p>
 
 ---
-[<img align="center" src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Scarlet.png" width="100"/>](https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json)
