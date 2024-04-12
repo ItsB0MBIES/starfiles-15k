@@ -21,4 +21,4 @@
 </p>
 
 ---
-[<img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Scarlet.png" width="30"/>](https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json)
+[<img align="center" src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Scarlet.png" width="100"/>](https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json)
