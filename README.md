@@ -14,4 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+    <a href="scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
+    <img src="https://img.shields.io/badge/Add%20to%20Scarlet?logo=Scarlet&color=red" alt="Add repo to Scarlet">
+  </a>
+</p>
+
 ---
