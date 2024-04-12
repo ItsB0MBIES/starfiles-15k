@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=1e90ff" alt="Add repo to ESign">
+    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Esign.png" width="160" alt="Add repo to ESign">
   </a>
 </p>
 
 <p align="center">
     <a href="https://appdb.to/repos/import?url=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
-    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Esign.png" width="160" alt="Add repo to Appdb">
+    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20AppDB.png" width="160" alt="Add repo to Appdb">
   </a>
 </p>
 
