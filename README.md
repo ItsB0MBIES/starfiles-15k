@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/starfilesrepo.json">
-    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Scarlet.png" width=""100 "alt="Add repo to Scarlet">
+    <img src="https://raw.githubusercontent.com/ItsB0MBIES/starfiles-10k/main/Icons/Add%20to%20Scarlet.png" width="100" "alt="Add repo to Scarlet">
   </a>
 </p>
 
